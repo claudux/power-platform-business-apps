@@ -64,7 +64,7 @@ Aplicación para revisar evaluaciones por módulo, visualizar notas, comentarios
 
 <p align="center">
   <img src="images/Cometidos.png" alt="App de Cometidos" width="48%">
-  <img src="images/Evaluacioon Docente.png" alt="App de Evaluación Docente" width="48%">
+  <img src="images/Evaluacion Docente.png" alt="App de Evaluación Docente" width="48%">
 </p>
 
 <p align="center">
