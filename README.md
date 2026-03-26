@@ -60,6 +60,18 @@ Aplicación para que el estudiante configure su repactación, defina condiciones
 ### 4. Evaluación Docente
 Aplicación para revisar evaluaciones por módulo, visualizar notas, comentarios y promedios, y permitir la confirmación del proceso por parte del docente y coordinación.
 
+## Vista previa de las aplicaciones
+
+<p align="center">
+  <img src="images/Cometidos.png" alt="App de Cometidos" width="48%">
+  <img src="images/Evaluacioon Docente.png" alt="App de Evaluación Docente" width="48%">
+</p>
+
+<p align="center">
+  <img src="images/Proyecto VAE.png" alt="App de Proyecto VAE" width="48%">
+  <img src="images/Repactacion Estudiantil.png" alt="App de Repactación Estudiantil" width="48%">
+</p>
+
 ## Documentación adicional
 - [Contexto de negocio](docs/business-context.md)
 - [Aplicaciones y casos de uso](docs/app-cases.md)
